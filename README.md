@@ -23,7 +23,6 @@ I have hands-on experience in a wide range of industries such as Fintech, Saas, 
 - 📫 How to reach me: [@kevin](https://www.linkedin.com/in/kevin-j-6b97bb1b8/);
 - 💬 Telegram : https://t.me/kevineversecure;
 - 📝 Email : everpower.inc@gmail.com, 
-- 
 
 **Languages and Tools:**  
 
