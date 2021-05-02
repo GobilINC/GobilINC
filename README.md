@@ -40,7 +40,7 @@ I have hands-on experience in a wide range of industries such as Fintech, Saas, 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript/TypeScript        8 hrs 18 mins   ███████████▓░░░░░░░░░░░░░   100.33 % 
+JavaScript/TypeScript        8 hrs 18 mins   ███████████▓░░░░░░░░░░░░░   98 % 
 Solidity                     5 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.33 % 
 EtherJS/Web3                 3 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.19 % 
 Other                        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
