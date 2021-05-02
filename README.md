@@ -37,17 +37,6 @@ I have hands-on experience in a wide range of industries such as Fintech, Saas, 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript/TypeScript        8 hrs 18 mins   ███████████▓░░░░░░░░░░░░░   48 % 
-Solidity                     5 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.33 % 
-EtherJS/Web3                 3 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.19 % 
-Other                        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-JSON                         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-```
-<!--END_SECTION:waka-->
-
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
