@@ -24,6 +24,10 @@ I have hands-on experience in a wide range of industries such as Fintech, Saas, 
 - 💬 Telegram : https://t.me/kevineversecure;
 - 📝 Email : everpower.inc@gmail.com
 
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
+</div>
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
