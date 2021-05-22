@@ -69,7 +69,7 @@ I have hands-on experience in a wide range of industries such as Fintech, Saas, 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qRDjvIePqf15S6N1QS/giphy.gif" width="500" height="320" />
+
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
@@ -78,8 +78,8 @@ I have hands-on experience in a wide range of industries such as Fintech, Saas, 
 ✅  Completed 842 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
-
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qRDjvIePqf15S6N1QS/giphy.gif" width="500" height="320" />
+<br />
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gobilINC&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
