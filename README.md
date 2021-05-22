@@ -78,8 +78,10 @@ I have hands-on experience in a wide range of industries such as Fintech, Saas, 
 ✅  Completed 842 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
+<div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qRDjvIePqf15S6N1QS/giphy.gif" width="500" height="320" />
-<br />
+</div>
+
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gobilINC&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
