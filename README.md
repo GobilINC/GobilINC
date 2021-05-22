@@ -69,7 +69,6 @@ I have hands-on experience in a wide range of industries such as Fintech, Saas, 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 
-<br />
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  7,837 main Points           
@@ -83,7 +82,7 @@ I have hands-on experience in a wide range of industries such as Fintech, Saas, 
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gobilINC&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gobilINC&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
