@@ -13,7 +13,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gobilINC.gobilINC)
 <br />
 
-Hi, I'm [Kevin.j](https://www.linkedin.com/in/kevin-j-6b97bb1b8/), Blockchain engineer specialized in custom cryptocurrency and blockchain-based Enterprise solutions. I have extensive experience in ICO's, STO's, Customising Consensus(POS/POW), Crypto exchange, Wallets, and crypto-bot design, DApps, blockchain websites (DEFI, DEX, DAPP), web portals, & smart contracts applications development.
+Hi, This is [Kevin.j](https://www.linkedin.com/in/kevin-j-6b97bb1b8/), Blockchain engineer specialized in custom cryptocurrency and blockchain-based Enterprise solutions. I have extensive experience in ICO's, STO's, Customising Consensus(POS/POW), Crypto exchange, Wallets, and crypto-bot design, DApps, blockchain websites (DEFI, DEX, DAPP), web portals, & smart contracts applications development.
 
 I have hands-on experience in a wide range of industries such as Fintech, Saas, E-commerce & Shopping, Social networking & Media, Healthcare & Beauty, Fitness & Sports, Machine learning, AR & VR, etc as well
 
