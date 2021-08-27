@@ -18,7 +18,12 @@ Hi, This is [Kevin.j](https://www.linkedin.com/in/kevin-j-6b97bb1b8/), Blockchai
 I have hands-on experience in a wide range of industries such as Fintech, Saas, E-commerce & Shopping, Social networking & Media, Healthcare & Beauty, Fitness & Sports, Machine learning, AR & VR, etc as well
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
+</div>
+
+
+
   
 - 📫 How to reach me: [@kevin](https://www.linkedin.com/in/kevin-j-6b97bb1b8/);
 - 💬 Telegram : https://t.me/kevineversecure;
