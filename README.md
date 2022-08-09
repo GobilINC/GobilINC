@@ -15,9 +15,6 @@
 
 Shoot for the moon!!!
 
-
-  
-- 📫 How to reach me: [@kevin](https://www.linkedin.com/in/kevin-j-6b97bb1b8/);
 - 💬 Telegram : https://t.me/kevineversecure_new;
 - 📝 Email : everpower.inc@gmail.com
 
